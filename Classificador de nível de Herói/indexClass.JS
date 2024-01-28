@@ -1,5 +1,5 @@
 let nomeHeroi = "Otávio";
-let nivelXp=8000;
+let nivelXp=7000;
 let classificador;
 if(nivelXp>=0){
 switch (true) {
@@ -17,6 +17,7 @@ switch (true) {
     break;
   case (nivelXp >7001) && (nivelXp<=8000):
     classificador = "Platina"
+    console.log("Platina")
     break;
   case (nivelXp >8001) && (nivelXp<=9000):
     classificador = "Ascendente"

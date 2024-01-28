@@ -1,6 +1,4 @@
-# Desafio Classificador de nível de Herói 🐱‍🏍
-
-Repositório para desafio do bootcamp Potência Tech iFood - Programação do Zero oferecido pela [Digital Innovation One](https://www.dio.me/), utilizando a IDE (Ambiente de Desenvolvimento Integrado) Visual Studio Code e todas as extensões do JavaScript.
+# Desafio 2 - Classificador de nível de Herói 🦸🏽‍♂️
 
 ## 💡 Objetivo
 Uma variável irá armazenar o nome e a quantidade de experiência (XP) de um herói, depois, por meio de uma estrutura de decisão, será apresentada alguma das mensagens abaixo:
@@ -16,6 +14,7 @@ Se XP for maior ou igual a 10.001 = Radiante
 
 Ao final será exibida a seguinte mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
+
 ## 📚 Documentação
 - [Install Visual Studio Code](https://code.visualstudio.com/)
 - [Install Node.js](https://nodejs.org/en)

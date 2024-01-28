@@ -1,6 +1,4 @@
-# Desafio Calculadora de Partidas Rankeadas 🎮
-
-Repositório para desafio do bootcamp Potência Tech iFood - Programação do Zero oferecido pela [Digital Innovation One](https://www.dio.me/), utilizando a IDE (Ambiente de Desenvolvimento Integrado) Visual Studio Code e todas as extensões do JavaScript.
+# Desafio 1 - Calculadora de Partidas Rankeadas 🎮
 
 ## 💡 Objetivo
 A função recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, depois disso retornará o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas), para definir o Rank que o jogador faz parte, será considerado a quantidade de vitórias, sendo:
@@ -13,6 +11,7 @@ Se vitórias for entre 91 e 100= Lendário
 Se vitórias for maior ou igual a 101 = Imortal
 Ao final será exibida a seguinte mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** e está no nível de **{nivel}**"
+
 ## 📚 Documentação
 - [Install Visual Studio Code](https://code.visualstudio.com/)
 - [Install Node.js](https://nodejs.org/en)
